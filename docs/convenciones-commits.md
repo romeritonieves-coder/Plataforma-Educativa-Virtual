@@ -39,3 +39,10 @@ Los mensajes de commit deben seguir un formato estándar para mantener un histor
 2. Mantener la descripción en menos de 50 caracteres
 3. Usar el cuerpo para explicar el por qué, no el qué
 4. Referenciar issues cuando sea posible
+
+## Errores Comunes
+
+1. Usar mensajes vagos como "update" o "fix"
+2. No especificar el tipo de cambio
+3. Mensajes demasiado largos
+4. No explicar el contexto del cambio
