@@ -35,6 +35,12 @@ Este proyecto simula un equipo de desarrollo con los siguientes roles:
     └── README.md
 ```
 
+## Tecnologías
+
+- **Frontend**: React.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, PostgreSQL
+- **Herramientas**: Git, GitHub, Docker
+
 ## Licencia
 
 Proyecto educativo - Taller de Git y GitHub
