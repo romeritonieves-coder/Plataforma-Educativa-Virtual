@@ -41,6 +41,14 @@ Este proyecto simula un equipo de desarrollo con los siguientes roles:
 - **Backend**: Node.js, Express.js, PostgreSQL
 - **Herramientas**: Git, GitHub, Docker
 
+## Funcionalidades
+
+- Gestión de cursos y contenido educativo
+- Sistema de usuarios y autenticación
+- Calificaciones y seguimiento de progreso
+- Comunicación y notificaciones
+- Analíticas y reportes
+
 ## Licencia
 
 Proyecto educativo - Taller de Git y GitHub
