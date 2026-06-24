@@ -21,6 +21,20 @@ La documentación completa del proyecto se encuentra en la carpeta `docs/`:
 
 Proyecto desarrollado en el marco del taller práctico de Git y GitHub.
 
+## Tecnologías
+
+- **Frontend**: React.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, PostgreSQL
+- **Herramientas**: Git, GitHub, Docker
+
+## Funcionalidades
+
+- Gestión de cursos y contenido educativo
+- Sistema de usuarios y autenticación
+- Calificaciones y seguimiento de progreso
+- Comunicación y notificaciones
+- Analíticas y reportes
+
 ## Licencia
 
 Proyecto educativo - Taller de Git y GitHub
