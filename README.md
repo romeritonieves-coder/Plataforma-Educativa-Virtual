@@ -1,39 +1,25 @@
-# Plataforma-Educativa-Virtual
+# CampusDigital LMS
 
-Repositorio del taller práctico de Git y GitHub para la plataforma educativa virtual **CampusDigital LMS**.
+Plataforma educativa virtual para la gestión de cursos, estudiantes y contenido educativo.
 
 ## Descripción
 
-Este proyecto simula el desarrollo colaborativo de una plataforma educativa virtual utilizando las mejores prácticas de Git y GitHub.
+CampusDigital LMS es un sistema de gestión de aprendizaje (LMS) diseñado para ofrecer una experiencia educativa completa y moderna. Esta plataforma permite la creación, gestión y seguimiento de cursos en línea con herramientas colaborativas y analíticas avanzadas.
 
-## Objetivo
+## Documentación
 
-Demostrar el dominio de herramientas de control de versiones mediante la implementación de un flujo de trabajo profesional con ramas, commits, pull requests y resolución de conflictos.
+La documentación completa del proyecto se encuentra en la carpeta `docs/`:
+
+- **Guía de Instalación**: Instrucciones para instalar y configurar el sistema
+- **Arquitectura del Sistema**: Documentación técnica de la arquitectura
+- **Módulos Funcionales**: Descripción de todos los módulos del sistema
+- **Manual de Usuario**: Guía completa para el usuario final
+- **Políticas de Calidad**: Estándares y buenas prácticas
+- **Reflexiones del Taller**: Análisis y conclusiones del taller
 
 ## Equipo
 
-Este proyecto simula un equipo de desarrollo con los siguientes roles:
-- **Documentador**: Encargado de la documentación base del proyecto
-- **Arquitecto**: Diseñador de la arquitectura del sistema
-- **Desarrollador**: Implementador de módulos funcionales
-- **UX Writer**: Redactor del manual de usuario
-- **QA Engineer**: Definidor de políticas de calidad
-- **DevOps**: Gestor de integración y despliegue continuo
-
-## Estructura del proyecto
-
-```
-├── README.md
-├── docs/
-│   ├── guia-instalacion.md
-│   ├── arquitectura-sistema.md
-│   ├── modulos-funcionales.md
-│   ├── manual-usuario.md
-│   ├── politicas-calidad.md
-│   └── reflexiones-taller.md
-└── evidencias/
-    └── README.md
-```
+Proyecto desarrollado en el marco del taller práctico de Git y GitHub.
 
 ## Licencia
 
