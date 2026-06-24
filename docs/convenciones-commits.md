@@ -46,3 +46,10 @@ Los mensajes de commit deben seguir un formato estándar para mantener un histor
 2. No especificar el tipo de cambio
 3. Mensajes demasiado largos
 4. No explicar el contexto del cambio
+
+## Herramientas Recomendadas
+
+- **Commitizen**: Para crear commits con el formato correcto
+- **Conventional Changelog**: Para generar changelogs automáticos
+- **Husky**: Para ejecutar hooks de pre-commit
+- **Lint-Staged**: Para ejecutar linters en archivos staged
